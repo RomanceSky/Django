@@ -1,0 +1,16 @@
+(venvSOA) [root@izwz9hbv3lrr68d8bo5dvpz admin]# cd templates
+(venvSOA) [root@izwz9hbv3lrr68d8bo5dvpz templates]# ls
+admin  registration
+(venvSOA) [root@izwz9hbv3lrr68d8bo5dvpz templates]# cd admin
+(venvSOA) [root@izwz9hbv3lrr68d8bo5dvpz admin]# ls
+404.html          change_list_results.html           login.html
+500.html          date_hierarchy.html                object_history.html
+actions.html      delete_confirmation.html           pagination.html
+app_index.html    delete_selected_confirmation.html  popup_response.html
+auth              edit_inline                        prepopulated_fields_js.html
+base.html         filter.html                        related_widget_wrapper.html
+base_site.html    includes                           search_form.html
+change_form.html  index.html                         submit_line.html
+change_list.html  invalid_setup.html
+(venvSOA) [root@izwz9hbv3lrr68d8bo5dvpz admin]# pwd
+/root/Myproject/venvSOA/lib/python2.7/site-packages/django/contrib/admin/templates/admin
